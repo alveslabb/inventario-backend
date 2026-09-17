@@ -165,4 +165,16 @@ Testar as seguintes operações:
 ![(print12)](./imagens/Captura%20de%20tela%202026-09-10%20161742.png)
 ![(print13)](./imagens/Captura%20de%20tela%202026-09-10%20161855.png)
 ![(print14)](./imagens/Captura%20de%20tela%202026-09-10%20161914.png)
-![(print15)](./imagens/Captura%20de%20tela%202026-09-10%20161959.png)"# inventario-backend"  
+![(print15)](./imagens/Captura%20de%20tela%202026-09-10%20161959.png)
+
+#### Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
+* Express.js
+* API REST
+* JSON
+* Visual Studio Code
+
